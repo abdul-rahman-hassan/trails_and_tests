@@ -1,1 +1,2 @@
-# trails_and_tests
+# trails and tests
+This repository is just me testing things out.
